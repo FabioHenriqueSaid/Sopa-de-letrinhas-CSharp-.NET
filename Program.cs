@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Sopa_de_Letrinhas.Tipos_de_dados;
+using System;
 
 namespace Sopa_de_Letrinhas
 {
@@ -6,7 +7,10 @@ namespace Sopa_de_Letrinhas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            TiposBasicos t = new TiposBasicos();
+            t.Overflow();
+            t.TamanhoValor();
+            t.Curiosidades();
         }
     }
 }
