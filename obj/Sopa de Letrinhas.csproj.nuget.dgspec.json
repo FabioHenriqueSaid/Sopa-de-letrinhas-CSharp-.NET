@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fh\\OpenSource\\C#\\Sopa de Letrinhas\\Sopa de Letrinhas\\Sopa de Letrinhas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fh\\OpenSource\\C#\\Sopa de Letrinhas\\Sopa de Letrinhas\\Sopa de Letrinhas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fh\\OpenSource\\C#\\Sopa de Letrinhas\\Sopa de Letrinhas\\Sopa de Letrinhas.csproj",
+        "projectName": "Sopa de Letrinhas",
+        "projectPath": "C:\\Users\\fh\\OpenSource\\C#\\Sopa de Letrinhas\\Sopa de Letrinhas\\Sopa de Letrinhas.csproj",
+        "packagesPath": "C:\\Users\\fh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fh\\OpenSource\\C#\\Sopa de Letrinhas\\Sopa de Letrinhas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
