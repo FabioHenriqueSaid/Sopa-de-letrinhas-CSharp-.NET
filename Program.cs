@@ -1,4 +1,5 @@
-﻿using Sopa_de_Letrinhas.Tipos_de_dados;
+﻿using Sopa_de_Letrinhas.Saida_de_dados;
+using Sopa_de_Letrinhas.Tipos_de_dados;
 using System;
 
 namespace Sopa_de_Letrinhas
@@ -7,10 +8,11 @@ namespace Sopa_de_Letrinhas
     {
         static void Main(string[] args)
         {
-            TiposBasicos t = new TiposBasicos();
-            t.Overflow();
-            t.TamanhoValor();
-            t.Curiosidades();
+            Saidas s = new Saidas();
+            s.Demonstracao();
+            s.Placeholders();
+            s.Interpolacao();
+            s.Concatenacao();
         }
     }
 }
