@@ -1,6 +1,5 @@
-﻿using Sopa_de_Letrinhas.Saida_de_dados;
-using Sopa_de_Letrinhas.Tipos_de_dados;
-using System;
+﻿using System;
+using Sopa_de_Letrinhas.Operadores;
 
 namespace Sopa_de_Letrinhas
 {
@@ -8,11 +7,9 @@ namespace Sopa_de_Letrinhas
     {
         static void Main(string[] args)
         {
-            Saidas s = new Saidas();
-            s.Demonstracao();
-            s.Placeholders();
-            s.Interpolacao();
-            s.Concatenacao();
+            Representacao demonstracao = new Representacao();
+            demonstracao.Baskara();
+            demonstracao.OperadoresAtribuicao();
         }
     }
 }
