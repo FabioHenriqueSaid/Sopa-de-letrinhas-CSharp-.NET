@@ -77,5 +77,25 @@ namespace Sopa_de_Letrinhas.Tipos_de_dados
             object y = 10; // Unboxing
             int y2 = (int)y;
         }
+
+        public void Conversoes() {
+            float x = 4.5f;
+            double y = x;//Conversao Implicita
+
+            double a = 5.1;
+            float b;
+
+            b = (float)a; //Casting -- Porém, você pode ter perdas de dados(Truncamento).
+
+            int c = 5;
+            int d = 7;
+            double resultado = (double) 5 / 7;//Garante que nao vai ter perda de dados.
+
+
+
+
+
+
+        }
     }
 }
