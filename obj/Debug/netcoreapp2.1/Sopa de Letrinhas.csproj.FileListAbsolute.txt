@@ -1,0 +1,11 @@
+C:\Users\fh\Desktop\dll\netcoreapp2.1\Sopa de Letrinhas.deps.json
+C:\Users\fh\Desktop\dll\netcoreapp2.1\Sopa de Letrinhas.runtimeconfig.json
+C:\Users\fh\Desktop\dll\netcoreapp2.1\Sopa de Letrinhas.runtimeconfig.dev.json
+C:\Users\fh\Desktop\dll\netcoreapp2.1\Sopa de Letrinhas.dll
+C:\Users\fh\Desktop\dll\netcoreapp2.1\Sopa de Letrinhas.pdb
+C:\Users\fh\OpenSource\C#\Sopa de Letrinhas\Sopa de Letrinhas\obj\Debug\netcoreapp2.1\Sopa de Letrinhas.csprojAssemblyReference.cache
+C:\Users\fh\OpenSource\C#\Sopa de Letrinhas\Sopa de Letrinhas\obj\Debug\netcoreapp2.1\Sopa de Letrinhas.csproj.CoreCompileInputs.cache
+C:\Users\fh\OpenSource\C#\Sopa de Letrinhas\Sopa de Letrinhas\obj\Debug\netcoreapp2.1\Sopa de Letrinhas.AssemblyInfoInputs.cache
+C:\Users\fh\OpenSource\C#\Sopa de Letrinhas\Sopa de Letrinhas\obj\Debug\netcoreapp2.1\Sopa de Letrinhas.AssemblyInfo.cs
+C:\Users\fh\OpenSource\C#\Sopa de Letrinhas\Sopa de Letrinhas\obj\Debug\netcoreapp2.1\Sopa de Letrinhas.dll
+C:\Users\fh\OpenSource\C#\Sopa de Letrinhas\Sopa de Letrinhas\obj\Debug\netcoreapp2.1\Sopa de Letrinhas.pdb
