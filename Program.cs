@@ -1,6 +1,5 @@
 ﻿using System;
-using Sopa_de_Letrinhas.Entrada_de_dados;
-using Sopa_de_Letrinhas.Operadores;
+using Sopa_de_Letrinhas.Alogitmos;
 
 namespace Sopa_de_Letrinhas
 {
@@ -8,9 +7,8 @@ namespace Sopa_de_Letrinhas
     {
         static void Main(string[] args)
         {
-            Entradas entradas = new Entradas();
-            entradas.Demonstracao();
-
+            Class1 c = new Class1();
+            c.ContaCorrente();
         }
     }
 }

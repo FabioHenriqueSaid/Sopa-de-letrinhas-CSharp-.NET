@@ -63,5 +63,22 @@ namespace Sopa_de_Letrinhas.Operadores
             double nota = 4;
             Console.WriteLine(nota >=7 ? aprovado : reprovado);
         }
+        public void OperadoresRelacionais() {
+            int numero1 = 5;
+            bool maior = numero1 > 5;
+            Console.WriteLine(maior);
+        }
+
+        public void OperadoresLogico() {
+            int numero1 = 20;
+            bool E = numero1 < 7 && numero1 == 6;
+            Console.WriteLine(E);
+
+            bool Ou = numero1 < 30 || numero1 == 31;
+            Console.WriteLine(Ou);
+
+            bool Nao = !(2 > 3);
+            Console.WriteLine(Nao);
+        }
     }
 }
